@@ -1,8 +1,7 @@
-TDD class
+# To Add (to Docs)
 
 * Lib options (ruby, JS server & client, junit, etc)
 * web framework hooks, runner
-* How to get started
 * Examples in Ruby and JS, but skills are transferable
 * *poll about language/framework*
 * Learning via tests
