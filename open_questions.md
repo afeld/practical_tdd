@@ -10,3 +10,6 @@
 * should hierarchy be handled in a special way?
 * separate concepts from specifics?
 * merge this whole project into [Code Cruise](https://github.com/afeld/code_cruise)?
+* how to distinguish objective information from opionated?
+* how to include syntax from multiple languages/frameworks?
+* should continuity be a concern?
