@@ -1,4 +1,5 @@
 * difference from [stubbing](stubbing.md)
 * why they are used
-* WebMock
-* VCR
+* testing web requests / external APIs
+    * WebMock
+    * VCR
