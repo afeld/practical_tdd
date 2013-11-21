@@ -2,7 +2,7 @@
 
 *Understanding Automated Testing*
 
-This project was created because there were very limited resources around learning testing frameworks, and even more importantly, *how* to test.
+This project was created because there were very limited resources around learning testing frameworks, and even more importantly, *how* to test.  Testing code is important, but the biggest advantage is that it forces you to write code that's testable.  Writing tests forces the writer to reason about the expectations of their code.
 
 ## Philosophy
 
